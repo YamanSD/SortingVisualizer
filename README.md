@@ -1,2 +1,1 @@
-# SortingVisualizer
-Sorting algorithms visualizer built using PyQT5
+Python Sorting Visualizer 
