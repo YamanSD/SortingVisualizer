@@ -1,6 +1,8 @@
 # SortingVisualizer
 
-The SortingVisualizer project is a sorting algorithm visualizer that provides a graphical demonstration of how various sorting algorithms work. With a user-friendly GUI, it allows users to interactively observe the step-by-step sorting process.
+The SortingVisualizer project is a sorting algorithms visualizer that provides a graphical demonstration of how various sorting algorithms work. With a user-friendly GUI, it allows users to interactively observe the sorting process.
+
+This project is heavily inspired by Bingmann's [Sounds of Sorting](https://github.com/bingmann/sound-of-sorting)
 
 ![SortingVisualizer Screenshot 1](screenshot1.png)
 ![SortingVisualizer Screenshot 2](screenshot2.png)
@@ -16,13 +18,13 @@ To install and set up the SortingVisualizer project, follow these steps:
 
 ## Usage
 
-Once the project is installed, you run the main.py file by executing the following command:
+1. Once the project is installed, you run the main.py file by: `python3 main.py`
 
-The visualizer's GUI will be displayed, allowing you to interact with the sorting algorithms.
+2. The visualizer's GUI will be displayed, allowing you to interact with the sorting algorithms.
 
 ## Features
 
-The SortingVisualizer project provides the following features:
+The GUI provides the following controls:
 
 - Start/Stop: Control the execution of the current sorting algorithm.
 - Shuffle Array: Randomly shuffle the elements in the array.
